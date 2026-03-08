@@ -1,0 +1,40 @@
+---
+title: "Creating a Github Account"
+author: "Nolan Hill"
+date: "2026-03-08"
+output: html_document
+---
+
+# Weekly Learning
+
+## Week 1
+- I got used to using R-Markdown, which turned out to be an extremely intuitive and versatile tool for coding projects.
+- I learned bias-variance tradeoffs and how models interact with those variables accordingly.
+
+## Week 2
+- I learned a few different methods of visualizing data and how to display that data on R Markdown.
+- I learned how to use summary statistics and what they refer to.
+
+## Week 3
+- How to perform linear regression in R and draw conclusions from the data.
+- Perform hypothesis testing from linear regression.
+
+## Week 4
+- Learned why qualitative data does not cooperate with linear regression.
+- Built logistic regression models.
+
+## Week 5
+- Learned how to build and fit poisson and gamma distributions.
+- Learned how to compare and contrast with linear regressions vs GLMs.
+
+## Week 6
+- Determined when to use random forest.
+- Determined how different types of forest and tree models.
+
+## Week 7
+- Learned k-means clustering and how to apply it.
+- Learned how to select the optimal number of clusters.
+
+## Week 8
+- Learned how to set up and use a Github account.
+- Learned how to intertwine communication and data science.
